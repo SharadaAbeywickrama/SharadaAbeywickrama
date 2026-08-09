@@ -61,6 +61,8 @@ A stateful intelligence platform that deploys specialized AI agents to automate 
 A rule-based warehouse decision-support system for inventory monitoring, order management, demand forecasting, stockout risk analysis, and AI-driven recommendations. 
 **Technologies:** Python • Prolog SWI
 
+### 📦 Neon_Geometry A minimalistic, cinematic tech-aesthetic 2D survival arena shooter built from scratch in C++ using OpenGL and the GLUT utility toolkit.  showcases structural computer graphics fundamentals distributed across a engineering team.
+
 # 📚 Currently Learning
 
 - Machine Learning & Deep Learning
